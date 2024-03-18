@@ -18,6 +18,6 @@ class customer:
        
       
         
-root=Tk()
+
 obj=customer(root)
 root.mainloop()
